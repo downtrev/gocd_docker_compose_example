@@ -14,6 +14,7 @@ services:
     links:
       - go-server
     volumes:
+     - /var/run/docker.socket:/var/run/docker.socket
      - ~/.m2:/home/go/.m2
     environment:
       AGENT_AUTO_REGISTER_KEY: '123456789abcdef'
@@ -25,6 +26,7 @@ services:
     links:
       - go-server
     volumes:
+     - /var/run/docker.socket:/var/run/docker.socket
      - ~/.m2:/home/go/.m2
     environment:
       AGENT_AUTO_REGISTER_KEY: '123456789abcdef'

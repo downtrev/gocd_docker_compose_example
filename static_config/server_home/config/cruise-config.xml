@@ -31,7 +31,7 @@
     </environment>
   </environments>
   <agents>
-    <agent hostname="efda9dc64050" ipaddress="172.18.0.3" uuid="c9a92293-c2f2-4248-bca5-878f99e16cc5">
+    <agent hostname="efda9dc64050" ipaddress="172.18.0.4" uuid="c9a92293-c2f2-4248-bca5-878f99e16cc5">
       <resources>
         <resource>maven</resource>
         <resource>nimbus2000</resource>
@@ -40,7 +40,7 @@
         <resource>test</resource>
       </resources>
     </agent>
-    <agent hostname="36fab40e3c01" ipaddress="172.18.0.4" uuid="f30162f6-34a4-4e7e-b60e-33eeddba6e9c">
+    <agent hostname="36fab40e3c01" ipaddress="172.18.0.3" uuid="f30162f6-34a4-4e7e-b60e-33eeddba6e9c">
       <resources>
         <resource>maven</resource>
         <resource>nimbus2000</resource>
