@@ -7,10 +7,7 @@ a simple [GoCD](https://www.gocd.io/) demo environment that completely provision
 [&rarr; Blog: Self-contained GoCD Environment Using Docker-Compose](https://ledentsov.de/2017/03/04/self-contained-gocd-docker-compose/)
 
 ## the versions
-
-- [original](original) - a server and an agent container as they are out of the box
 - [static_config](static_config) - 2 different agents, server provisioned via a static config file mapped into the container
-- [provisioned_externally](provisioned_externally) - 2 different agents, server provisioned externally via the API
 
 ## summary of the provisioned version
 
