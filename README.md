@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/d-led/gocd_docker_compose_example.svg?branch=master)](https://travis-ci.org/d-led/gocd_docker_compose_example)
 
-a simple [GoCD](https://www.gocd.io/) demo environment that completely provisions itself and adds a [pipeline](https://github.com/d-led/cctray-rpi-unicorn-hat-monitor) (as a [YAML](https://github.com/tomzo/gocd-yaml-config-plugin) config) via the [REST API](https://api.gocd.io/).
+a simple [GoCD](https://www.gocd.io/) demo environment that completely provisions itself and adds a [pipeline](https://github.com/downtrev/tdawg-yaml-config) (as a [YAML](https://github.com/tomzo/gocd-yaml-config-plugin) config) via the [REST API](https://api.gocd.io/).
 
 [&rarr; Blog: Self-contained GoCD Environment Using Docker-Compose](https://ledentsov.de/2017/03/04/self-contained-gocd-docker-compose/)
 
